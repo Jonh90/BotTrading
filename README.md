@@ -1,0 +1,2 @@
+# BotTrading
+Automatización Bot Telegram
